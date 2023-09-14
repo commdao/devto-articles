@@ -1,4 +1,4 @@
-name: "Cronjob"
+name: "Update article list"
 on:
     schedule:
         - cron: '0 0 * * *'
@@ -12,7 +12,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
-            - name: Generate README
+            - name: Update articles
               uses: huantt/article-listing@v1.0.0
               with:
                 username: commdao                
