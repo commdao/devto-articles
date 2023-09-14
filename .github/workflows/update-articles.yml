@@ -1,7 +1,10 @@
 name: "Cronjob"
 on:
-schedule:
-- cron: '15 0 * * *'
+    schedule:
+        - cron: '0 0 * * *'
+    push:
+        branches:
+            -main
 
 jobs:
     update-articles:
