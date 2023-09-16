@@ -4,7 +4,7 @@ on:
         - cron: '0 0 * * *'
     push:
         branches:
-            -main
+            - main
 jobs:
     update-articles:
         permissions: write-all
@@ -12,7 +12,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Update articles
-              uses: huantt/article-listing@v1.0.0
+              uses: huantt/article-listing@v1.1.0
               with:
                 username: commdao                
                 template-file: 'README.md.template'
