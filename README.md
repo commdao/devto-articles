@@ -1,6 +1,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xa3_LJrI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uyq46qjgeqz4aprdftcb.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/commdao/even-pro-producers-use-reference-tracks-1pb8">Even Pro Producers Use Reference Tracks</a>
+                <div>Something I&#39;ve adjusted with my on/off again relationship with music production is using reference...</div>
+                <div><i>26/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--06XksHRE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/956xzknf63ukvh3vdhm9.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/commdao/piece-of-cake-javascript-functions-single-page-application-navbar-6bj">Piece of Cake JavaScript Functions: Single-Page Application NavBar</a>
@@ -30,14 +38,6 @@
                 <a href="https://dev.to/commdao/thinking-about-ternary-operators-1167">Thinking about Ternary Operators</a>
                 <div>This is sort of a more advanced topic, and I&#39;ve been recommended not to worry about it too much....</div>
                 <div><i>30/06/2021</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--b5YJraki--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eaeo3dr89hsl9t7h6qpb.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/commdao/do-you-know-what-does-4j0l">&#34;Do you know what &#39;&#43;&#43;&#39; does?&#34;</a>
-                <div>Finished another JavaScript tutorial and shared the project with a friend. He was reviewing one of...</div>
-                <div><i>29/06/2021</i></div>
             </td>
         </tr>
 </table>
