@@ -1,6 +1,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OgVlFPAH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhtt5dibf9g2nefvv7yu.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/commdao/trust-with-devtools-broken-4b2l">Trust with DevTools Broken</a>
+                <div>Making use of the Chrome Dev Tools habit has been a more recent practice of mine. I&#39;ve used it to...</div>
+                <div><i>29/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xa3_LJrI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uyq46qjgeqz4aprdftcb.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/commdao/even-pro-producers-use-reference-tracks-1pb8">Even Pro Producers Use Reference Tracks</a>
@@ -30,14 +38,6 @@
                 <a href="https://dev.to/commdao/asynchronous-5gm2">Asynchronous</a>
                 <div>In the middle of learning `setTimeout(), I&#39;m seeing the word asynchronous a lot. And Google says that...</div>
                 <div><i>01/07/2021</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pZGM0aLI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6o43i52sbsrf1yqc1b1z.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/commdao/thinking-about-ternary-operators-1167">Thinking about Ternary Operators</a>
-                <div>This is sort of a more advanced topic, and I&#39;ve been recommended not to worry about it too much....</div>
-                <div><i>30/06/2021</i></div>
             </td>
         </tr>
 </table>
