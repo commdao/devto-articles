@@ -1,6 +1,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LqcbaY9U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/riw7bu1x9vlcorzioq99.gif" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/commdao/recontextualize-to-remember-167h">Recontextualize to Remember</a>
+                <div>Diving into the world of web development has been the dumbest thing I&#39;ve ever done.  As in, learning...</div>
+                <div><i>13/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OgVlFPAH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhtt5dibf9g2nefvv7yu.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/commdao/trust-with-devtools-broken-4b2l">Trust with DevTools Broken</a>
@@ -30,14 +38,6 @@
                 <a href="https://dev.to/commdao/array-index-array-minmax-value-4ke9">Array Index != Array Min/Max Value</a>
                 <div>In this coding journey, I&#39;ve severely underestimated how much utility goes into using an array. If...</div>
                 <div><i>01/02/2022</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lpDrtX69--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0wnip1cot5g3soc4gjj0.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/commdao/asynchronous-5gm2">Asynchronous</a>
-                <div>In the middle of learning `setTimeout(), I&#39;m seeing the word asynchronous a lot. And Google says that...</div>
-                <div><i>01/07/2021</i></div>
             </td>
         </tr>
 </table>
