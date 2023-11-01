@@ -1,6 +1,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MI6QsqXp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ygaa8hn1whmmtf3s5dlr.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/commdao/json-at-the-airport-18gf">JSON! at the Airport</a>
+                <div>The most stressful part of travel is the whole airport experience, yeah?  You know, for prep time, I...</div>
+                <div><i>31/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LqcbaY9U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/riw7bu1x9vlcorzioq99.gif" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/commdao/recontextualize-to-remember-167h">Recontextualize to Remember</a>
@@ -30,14 +38,6 @@
                 <a href="https://dev.to/commdao/piece-of-cake-javascript-functions-single-page-application-navbar-6bj">Piece of Cake JavaScript Functions: Single-Page Application NavBar</a>
                 <div>Part Blog / Part Review, I plan to breakdown the Javascript functions I use on my portfolio site....</div>
                 <div><i>11/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vq7maw16--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1gox6l18op1yv0p9mkw.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/commdao/array-index-array-minmax-value-4ke9">Array Index != Array Min/Max Value</a>
-                <div>In this coding journey, I&#39;ve severely underestimated how much utility goes into using an array. If...</div>
-                <div><i>01/02/2022</i></div>
             </td>
         </tr>
 </table>
